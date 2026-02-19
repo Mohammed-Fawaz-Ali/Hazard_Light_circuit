@@ -140,6 +140,3 @@ This project evolved from a simulated soft-touch toggle concept into a fully int
 **Author:** Mohammed Fawaz Ali  
 B.Tech – Computer Science Engineering  
 SR University, Warangal
-
-## 📁 Repository Structure
-
